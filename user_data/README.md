@@ -1,4 +1,4 @@
-### To run Bayeswave on any data.dat file specified with the user, we need
+### To run Bayeswave on any data.dat file, we need
 
 1) Seperate Frame and Cache files for each detector with the correspoding detector data as a timeseries
 2) cache-files dictionary in the [datafind] section that points to the location of these Cache files
