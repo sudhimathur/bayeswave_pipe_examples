@@ -5,8 +5,6 @@ This repository contains examples for running BayesWave on `.dat` files with:
 1. [**User-specified data**](./user_data/README.md)  
 2. [**Template injected into LIGO data**](./user_injection/README.md)
 
-Each subdirectory contains a `README.md` file with setup instructions, data format expectations, and example usage.
-
 ---
 
 #### References
