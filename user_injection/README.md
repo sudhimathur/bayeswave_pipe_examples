@@ -6,7 +6,7 @@
 
 ## Run the example using
 
-python3 frame_and_cache.py 
+'''python3 frame_and_cache.py'''
 
 uses template.dat (with times and un-whitened strain) and channel names to write the single frame and cache file for a single/multi-detector injection. 
 
