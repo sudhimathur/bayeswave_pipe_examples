@@ -14,6 +14,7 @@ uses ``data-H1.dat`` and ``data-L1.dat`` (with times and un-whitened strain) and
 
 ```bash
 chmod +x submit.sh
+
 ./submit.sh
 ```
 
