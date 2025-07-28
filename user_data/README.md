@@ -1,8 +1,8 @@
-### To run Bayeswave on any data.dat file, we need
+### To run Bayeswave on any ``.dat`` file, we need
 
 1) Seperate Frame and Cache files for each detector with the correspoding detector data as a timeseries
-2) cache-files dictionary in the [datafind] section that points to the location of these Cache files
-3)  --skip-datafind tag in the bayeswave_pipe command so that [datafind] does not try to get real LIGO data.
+2) ``cache-files`` dictionary in the ``[datafind]`` section that points to the location of these Cache files
+3)  ``--skip-datafind`` tag in the ``bayeswave_pipe`` command so that ``[datafind]`` does not try to get real LIGO data.
 
 ```bash
 python3 frame_and_cache.py 
