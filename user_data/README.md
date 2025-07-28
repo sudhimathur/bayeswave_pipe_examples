@@ -13,6 +13,7 @@ python3 frame_and_cache.py
 uses ``data-H1.dat`` and ``data-L1.dat`` (with times and un-whitened strain) and to write separate Frame and Cache file for each detector H1 and L1. 
 
 ```bash
+chmod +x submit.sh
 ./submit.sh
 ```
 
