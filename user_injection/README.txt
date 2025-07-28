@@ -1,8 +1,10 @@
-To inject a waveform template from a .dat file into LIGO data, we need
+## To inject a waveform template from a .dat file into LIGO data, we need
 
 1) A single Frame and Cache file with the template as a timeseries.
 2) Correct channel names and frame types to get LIGO data at the specified GPS time
 3) [injections] section in the .ini that points to the cache file
+
+## Run the example using
 
 python3 frame_and_cache.py 
 
