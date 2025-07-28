@@ -13,6 +13,8 @@ python3 frame_and_cache.py
 uses ``template.dat`` (with times and un-whitened strain) and channel names to write the single frame and cache file for a single or multi-detector injection. 
 
 ```bash
+chmod +x submit.sh
+
 ./submit.sh
 ```
 
