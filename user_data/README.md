@@ -13,9 +13,7 @@ python3 frame_and_cache.py
 uses ``data-H1.dat`` and ``data-L1.dat`` (with times and un-whitened strain) and to write separate Frame and Cache file for each detector H1 and L1. 
 
 ```bash
-chmod +x submit.sh
-
-./submit.sh
+source submit.sh
 ```
 
 updates the ``cache-files`` placeholder in the ``MDC_realnoise.ini`` file's ``[datafind]`` section and submits the run to ``bayeswave_pipe``.
